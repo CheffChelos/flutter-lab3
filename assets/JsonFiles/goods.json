@@ -1,0 +1,42 @@
+[
+  {
+    "path": "assets/images/laptop.png",
+    "name": "MacBook Pro 15",
+    "price": "$1760"
+  },
+  {
+    "path": "assets/images/television.png",
+    "name": "Xiaomi Mi TV",
+    "price": "$699"
+  },
+  {
+    "path": "assets/images/phone.png",
+    "name": "iPhone XS max",
+    "price": "$1970"
+  },
+  {
+    "path": "assets/images/dryer.png",
+    "name": "PHILIPS Thermo",
+    "price": "$120"
+  },
+  {
+    "path": "assets/images/laptop.png",
+    "name": "MacBook Pro 15",
+    "price": "$1760"
+  },
+  {
+    "path": "assets/images/television.png",
+    "name": "Xiaomi Mi TV",
+    "price": "$699"
+  },
+  {
+    "path": "assets/images/phone.png",
+    "name": "iPhone XS max",
+    "price": "$1970"
+  },
+  {
+    "path": "assets/images/dryer.png",
+    "name": "PHILIPS Thermo",
+    "price": "$120"
+  }
+]
